@@ -1,0 +1,34 @@
+# IntelliJ / JetBrains project files
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Build / compiled output (general)
+bin/
+build/
+
+# Java
+*.class
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+~$*
+
+# OS-specific
+Thumbs.db
+
+# Local environment / overrides
+*.local
+
